@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "id": "taoyuan-a4-2026-07-23T14:22:39.866Z",
+      "communityId": "taoyuan-a4",
+      "communityName": "同安首席",
+      "address": "桃園市桃園區同安街",
+      "note": "test1",
+      "score": 0,
+      "savedAt": "2026-07-23T14:22:39.866Z"
+    },
+    {
+      "id": "taoyuan-a4-2026-07-23T14:22:48.983Z",
+      "communityId": "taoyuan-a4",
+      "communityName": "同安首席",
+      "address": "桃園市桃園區同安街",
+      "note": "test2",
+      "score": 0,
+      "savedAt": "2026-07-23T14:22:48.983Z"
+    },
+    {
+      "id": "taoyuan-a4-2026-07-23T14:28:27.026Z",
+      "communityId": "taoyuan-a4",
+      "communityName": "同安首席",
+      "address": "桃園市桃園區同安街",
+      "note": "test3\n",
+      "score": 0,
+      "savedAt": "2026-07-23T14:28:27.026Z"
+    },
+    {
+      "id": "taoyuan-a4-2026-07-23T14:35:40.739Z",
+      "communityId": "taoyuan-a4",
+      "communityName": "藝文大觀",
+      "address": "桃園市桃園區大興西路二段139巷",
+      "note": "3樓 管路轉折 廁所天花板 暗房\n",
+      "score": 0,
+      "savedAt": "2026-07-23T14:35:40.739Z"
+    },
+    {
+      "id": "taoyuan-a4-2026-07-23T14:37:03.787Z",
+      "communityId": "taoyuan-a4",
+      "communityName": "藝文大觀",
+      "address": "桃園市桃園區大興西路二段139巷",
+      "note": "3樓 管路轉折 廁所天花板 暗房\n",
+      "score": 4,
+      "savedAt": "2026-07-23T14:37:03.787Z"
+    },
+    {
+      "id": "community-1784818311327-2026-07-23T14:52:09.738Z",
+      "communityId": "community-1784818311327",
+      "communityName": "新增物件",
+      "address": "請輸入地址",
+      "note": "123",
+      "score": 3,
+      "savedAt": "2026-07-23T14:52:09.738Z"
+    },
+    {
+      "id": "community-1784820159021-2026-07-23T15:22:57.431Z",
+      "communityId": "community-1784820159021",
+      "communityName": "新增物件",
+      "address": "請輸入地址",
+      "note": "test1",
+      "score": 0,
+      "savedAt": "2026-07-23T15:22:57.431Z"
+    },
+    {
+      "id": "community-1784820159021-2026-07-23T15:23:06.663Z",
+      "communityId": "community-1784820159021",
+      "communityName": "新增物件",
+      "address": "請輸入地址",
+      "note": "test1",
+      "score": 3,
+      "savedAt": "2026-07-23T15:23:06.663Z"
+    }
+  ]
+}

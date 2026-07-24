@@ -1,0 +1,3898 @@
+[
+  {
+    "id": "convenience-store-全家-桃園市桃園區南華里南華街111號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區南華里南華街１１１號１樓",
+    "lat": 24.9916822,
+    "lng": 121.3077365
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區長德里愛九街112號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區長德里愛九街112號1樓",
+    "lat": 25.0049584,
+    "lng": 121.300269
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區慈光街114號-116號",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區慈光街114號、116號",
+    "lat": 25.0060067,
+    "lng": 121.2991985
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中寧里中正路一一六七號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中寧里中正路一一六七號一樓",
+    "lat": 25.0184743,
+    "lng": 121.2971985
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區寶山里民光東路120號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區寶山里民光東路120號1樓",
+    "lat": 25.0080403,
+    "lng": 121.3179251
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區忠義里大業路一段126號-128號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區忠義里大業路一段126號、128號1樓",
+    "lat": 25.0064057,
+    "lng": 121.3165491
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區寶慶里大興西路二段一二八號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區寶慶里大興西路二段一二八號一樓",
+    "lat": 25.0107081,
+    "lng": 121.2966165
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區新埔里經國路130號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區新埔里經國路130號1樓",
+    "lat": 25.0158432,
+    "lng": 121.3062772
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區莊敬里中正路1316號-1318號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區莊敬里中正路１３１６號，１３１８號１樓",
+    "lat": 25.0208413,
+    "lng": 121.2966065
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區雲林里延平路135之1號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區雲林里延平路１３５之１號１樓",
+    "lat": 24.9836755,
+    "lng": 121.3147835
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區大興里大業路一段一三七-一三九號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區大興里大業路一段一三七、一三九號一樓",
+    "lat": 25.007435,
+    "lng": 121.3157561
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區莊敬路1段137號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區莊敬路１段１３７號１樓",
+    "lat": 25.0256207,
+    "lng": 121.3013236
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區武陵里中正路十三號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區武陵里中正路十三號一樓",
+    "lat": 24.9894877,
+    "lng": 121.31277
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區文化里民權路13號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區文化里民權路13號1樓",
+    "lat": 24.9897987,
+    "lng": 121.3117682
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區新埔里經國路一四二號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區新埔里經國路一四二號一樓",
+    "lat": 25.0159366,
+    "lng": 121.3061243
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區汴洲里春日路1496號-1498號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區汴洲里春日路1496號、1498號1樓",
+    "lat": 25.0295773,
+    "lng": 121.3047311
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區文化里復興路151號",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區文化里復興路151號",
+    "lat": 24.9898043,
+    "lng": 121.3112849
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區復興路159號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區復興路159號1樓",
+    "lat": 24.989641,
+    "lng": 121.310906
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區福安里介壽路165號-167號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區福安里介壽路165號、167號1樓",
+    "lat": 24.9828483,
+    "lng": 121.3091232
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區成功里成功路二段一六五號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區成功里成功路二段一六五號一樓",
+    "lat": 24.9949915,
+    "lng": 121.3191659
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中寧里同德六街172號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中寧里同德六街１７２號１樓",
+    "lat": 25.0154988,
+    "lng": 121.2967051
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區東門里中山東路十七號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區東門里中山東路十七號一樓",
+    "lat": 24.9956888,
+    "lng": 121.3136167
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區介壽路17-19號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區介壽路17、19號1樓",
+    "lat": 24.9872848,
+    "lng": 121.3111521
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區莊一街17號1樓-桃園縣桃園市莊一街19號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區莊一街17號1樓、桃園縣桃園市莊一街19號1樓",
+    "lat": 25.0221829,
+    "lng": 121.2949516
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區信光里正康三街181號1樓-桃園市桃園區信光里大連一街107號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區信光里正康三街181號1樓、桃園市桃園區信光里大連一街107號1樓",
+    "lat": 25.0079133,
+    "lng": 121.3069428
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區西門里民族路187號-189號",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區西門里民族路187號、189號",
+    "lat": 24.9939356,
+    "lng": 121.3080282
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區長德里力行路194號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區長德里力行路194號1樓",
+    "lat": 25.0009936,
+    "lng": 121.3005748
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區慈文里慈德街一號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區慈文里慈德街一號一樓",
+    "lat": 25.0068455,
+    "lng": 121.3019292
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區莊敬里莊敬路1段204號-206號-208號1樓及b1",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區莊敬里莊敬路1段204號、206號、208號1樓及B1",
+    "lat": 25.0250397,
+    "lng": 121.2990094
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區同安里大興西路1段208號",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區同安里大興西路1段208號",
+    "lat": 25.0136355,
+    "lng": 121.3026679
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區同安里南平路二一一號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區同安里南平路二一一號一樓",
+    "lat": 25.0190909,
+    "lng": 121.3011813
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中興里永安路219號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中興里永安路２１９號１樓",
+    "lat": 24.9982324,
+    "lng": 121.303697
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區新埔里經國路223號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區新埔里經國路２２３號１樓",
+    "lat": 25.0126253,
+    "lng": 121.3074839
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區大豐里金門二街234號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區大豐里金門二街234號1樓",
+    "lat": 24.9816465,
+    "lng": 121.3146019
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區東門里春日路235號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區東門里春日路２３５號１樓",
+    "lat": 24.9975554,
+    "lng": 121.3152533
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區春日路236號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區春日路２３６號１樓",
+    "lat": 24.9983533,
+    "lng": 121.3152161
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區汴洲里幸福路238號及258號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區汴洲里幸福路238號及258號1樓",
+    "lat": 25.0284031,
+    "lng": 121.2986548
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中成里大興西路3段257號",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中成里大興西路3段257號",
+    "lat": 25.0034572,
+    "lng": 121.2889351
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區武陵里成功路一段二十五號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區武陵里成功路一段二十五號一樓",
+    "lat": 24.9926746,
+    "lng": 121.3126091
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區寶山街265號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區寶山街265號1樓",
+    "lat": 25.0113677,
+    "lng": 121.3141142
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區武陵里大同路28號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區武陵里大同路28號1樓",
+    "lat": 24.9900495,
+    "lng": 121.3137223
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中聖里國鼎一街28號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中聖里國鼎一街28號1樓",
+    "lat": 24.9878028,
+    "lng": 121.2880253
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區南門里中山路295號1樓-2樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區南門里中山路295號1樓、2樓",
+    "lat": 24.992046,
+    "lng": 121.3043594
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區成功路一段29號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區成功路一段２９號１樓",
+    "lat": 24.9926271,
+    "lng": 121.3125012
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區大林里榮華街63巷29號-31號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區大林里榮華街63巷29號、31號1樓",
+    "lat": 24.9743646,
+    "lng": 121.3209508
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區大有里大有路302號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區大有里大有路302號1樓",
+    "lat": 25.0098055,
+    "lng": 121.3199155
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中正路302-306號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中正路302、306號1樓",
+    "lat": 24.9972583,
+    "lng": 121.3095411
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區東山里復興路三十號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區東山里復興路三十號１樓",
+    "lat": 24.9910102,
+    "lng": 121.3180117
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區光興里縣府路318號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區光興里縣府路３１８號１樓",
+    "lat": 24.9924739,
+    "lng": 121.3003433
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區文化里民權路31號-33號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區文化里民權路31號、33號1樓",
+    "lat": 24.9906949,
+    "lng": 121.3113935
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區青溪里民光東路326號-328號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區青溪里民光東路326號、328號1樓",
+    "lat": 25.0059687,
+    "lng": 121.3109939
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區東門里中山東路32之21號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區東門里中山東路32之21號1樓",
+    "lat": 24.9957432,
+    "lng": 121.3145575
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中山里中平路三十二號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中山里中平路三十二號一樓",
+    "lat": 24.9896117,
+    "lng": 121.2920163
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中興里力行路335號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中興里力行路335號1樓",
+    "lat": 24.9989882,
+    "lng": 121.2981525
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區東門里中山東路三十四號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區東門里中山東路三十四號一樓",
+    "lat": 24.9962537,
+    "lng": 121.3160221
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區同德十街35號-37號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區同德十街35號、37號1樓",
+    "lat": 25.0186515,
+    "lng": 121.294066
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區莊敬里莊敬路一段三七六號-中正路一四一六號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區莊敬里莊敬路一段三七六號，中正路一四一六號一樓",
+    "lat": 25.0236254,
+    "lng": 121.2953147
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區東埔里中正路378號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區東埔里中正路３７８號１樓",
+    "lat": 24.9994194,
+    "lng": 121.3082077
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中成里永安路381號-383號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中成里永安路381號、383號1樓",
+    "lat": 25.0008627,
+    "lng": 121.2989815
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區復興路387號及387之1號",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區復興路387號及387之1號",
+    "lat": 24.99064,
+    "lng": 121.3025887
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區桃鶯路388號-388-1號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區桃鶯路388號、388-1號1樓",
+    "lat": 24.9765414,
+    "lng": 121.3229046
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區文化里中華路三號一樓之九-三號一樓之十",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區文化里中華路三號一樓之九，三號一樓之十",
+    "lat": 24.9910552,
+    "lng": 121.3117557
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區建國路40號",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區建國路40號",
+    "lat": 24.9859724,
+    "lng": 121.316689
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中正三街411號",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中正三街411號",
+    "lat": 25.003716,
+    "lng": 121.2983869
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區同德里南平路416號-418號1樓-地下一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區同德里南平路416號、418號1樓＆地下一樓",
+    "lat": 25.0172596,
+    "lng": 121.295958
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區永安北路422號1樓之2-424號1樓之1",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區永安北路422號1樓之2、424號1樓之1",
+    "lat": 25.0173714,
+    "lng": 121.29275
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區寶安里永安北路422號1樓之1",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區寶安里永安北路422號1樓之1",
+    "lat": 25.0173714,
+    "lng": 121.29275
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區瑞慶里寶慶路432號",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區瑞慶里寶慶路432號",
+    "lat": 25.0189637,
+    "lng": 121.2902757
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區三民路三段448之1號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區三民路三段４４８之１號１樓",
+    "lat": 24.9848266,
+    "lng": 121.3072301
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區新埔里經國路四五一號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區新埔里經國路四五一號一樓",
+    "lat": 25.0190534,
+    "lng": 121.3042031
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區忠義里大業路1段46-48號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區忠義里大業路1段46、48號1樓",
+    "lat": 25.0043734,
+    "lng": 121.3180384
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區泰山里中山路505號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區泰山里中山路５０５號１樓",
+    "lat": 24.9911755,
+    "lng": 121.2978513
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區永安里中正路509號1樓-2樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區永安里中正路509號1樓、2樓",
+    "lat": 25.0025627,
+    "lng": 121.3059184
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區永安里中正路五一一號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區永安里中正路五一一號一樓",
+    "lat": 25.0026915,
+    "lng": 121.3058615
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中信里國際路二段51號",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中信里國際路二段51號",
+    "lat": 24.9914922,
+    "lng": 121.2882721
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中寧里中埔六街五十四號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中寧里中埔六街五十四號一樓",
+    "lat": 25.0173483,
+    "lng": 121.2958161
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區會稽里大有路五五四號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區會稽里大有路五五四號一樓",
+    "lat": 25.0139968,
+    "lng": 121.3179985
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中寧里大興西路二段五十五號一樓之二",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中寧里大興西路二段五十五號一樓之二",
+    "lat": 25.0114785,
+    "lng": 121.2989263
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區東埔里中正路576號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區東埔里中正路５７６號１樓",
+    "lat": 25.0038767,
+    "lng": 121.3053756
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中州街57號",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中州街57號",
+    "lat": 24.9884828,
+    "lng": 121.293391
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區仁愛路60號-62號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區仁愛路60號、62號1樓",
+    "lat": 24.994174,
+    "lng": 121.2931594
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區光興里中山北路六十一號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區光興里中山北路六十一號１樓",
+    "lat": 24.9935948,
+    "lng": 121.3031426
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區文化里中正路61號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區文化里中正路61號1樓",
+    "lat": 24.9911025,
+    "lng": 121.3125283
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區會稽里大有路632號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區會稽里大有路６３２號１樓",
+    "lat": 25.0155461,
+    "lng": 121.3170817
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區東埔里正康二街68號-70號",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區東埔里正康二街68號、70號",
+    "lat": 25.0019352,
+    "lng": 121.3086185
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中平里中山路六九一號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中平里中山路六九一號一樓",
+    "lat": 24.9908643,
+    "lng": 121.2919175
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區成功路2段69號-71號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區成功路2段69號、71號1樓",
+    "lat": 24.9941641,
+    "lng": 121.3164639
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區南埔里正光路700號-702號1樓及吉安街88號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區南埔里正光路700號、702號1樓及吉安街88號1樓",
+    "lat": 25.0050883,
+    "lng": 121.2921181
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區建國里大林路七十一號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區建國里大林路七十一號１樓",
+    "lat": 24.9875343,
+    "lng": 121.3142652
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區福林里長沙街七十二號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區福林里長沙街七十二號一樓",
+    "lat": 24.9802804,
+    "lng": 121.3089222
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區會稽里春日路七三六號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區會稽里春日路七三六號一樓",
+    "lat": 25.0121983,
+    "lng": 121.3100945
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區武陵里民生路74號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區武陵里民生路74號1樓",
+    "lat": 24.9915871,
+    "lng": 121.314656
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區南埔里永安路752號-754號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區南埔里永安路752號、754號1樓",
+    "lat": 25.0058179,
+    "lng": 121.2949558
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區大興西路2段139巷77號及79號",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區大興西路2段139巷77號及79號",
+    "lat": 25.0097943,
+    "lng": 121.2976216
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中山路845號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中山路845號1樓",
+    "lat": 24.9890839,
+    "lng": 121.2874384
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中山路849號-851號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中山路849號、851號1樓",
+    "lat": 24.9889761,
+    "lng": 121.287195
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區大豐里建國路八十五號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區大豐里建國路八十五號一樓",
+    "lat": 24.985508,
+    "lng": 121.3142632
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區武陵里民生路八十六號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區武陵里民生路八十六號一樓",
+    "lat": 24.9917534,
+    "lng": 121.3144993
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區汴洲里經國二路87號",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區汴洲里經國二路87號",
+    "lat": 25.0296165,
+    "lng": 121.2979533
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區縣府路88之1號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區縣府路88之1號1樓",
+    "lat": 24.9937921,
+    "lng": 121.3025856
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區福安里建新街八十八號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區福安里建新街八十八號一樓",
+    "lat": 24.9823547,
+    "lng": 121.3117297
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區北埔里莊一街88號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區北埔里莊一街８８號１樓",
+    "lat": 25.0218453,
+    "lng": 121.2934473
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區經國路899號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區經國路899號1樓",
+    "lat": 25.0323155,
+    "lng": 121.3002797
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中寧里中正路九二七號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中寧里中正路九二七號一樓",
+    "lat": 25.0119335,
+    "lng": 121.3000867
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區武陵里復興路九十六號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區武陵里復興路九十六號一樓",
+    "lat": 24.9911321,
+    "lng": 121.3158644
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區文明里中華路九十七號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區文明里中華路九十七號一樓",
+    "lat": 24.9902878,
+    "lng": 121.3094037
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區同安里同德五街98號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區同安里同德五街98號1樓",
+    "lat": 25.0147983,
+    "lng": 121.2999033
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區東門里春日路九十八號-成功路二段八十三號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區東門里春日路九十八號，成功路二段八十三號１樓",
+    "lat": 24.9942568,
+    "lng": 121.316764
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中信里中山路992號-994號",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中信里中山路992號、994號",
+    "lat": 24.988715,
+    "lng": 121.2857604
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區民安路99號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區民安路99號1樓",
+    "lat": 24.9964516,
+    "lng": 121.2999802
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區慈文里慈光街99號-101巷1號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區慈文里慈光街９９號、１０１巷１號１樓",
+    "lat": 25.0059806,
+    "lng": 121.2989094
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區民權路9號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區民權路９號１樓",
+    "lat": 24.989717,
+    "lng": 121.3118119
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區玉山里大同西路九十三號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區玉山里大同西路九十三號一樓",
+    "lat": 24.9886543,
+    "lng": 121.3015373
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區同安里中正路845號1樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區同安里中正路８４５號１樓",
+    "lat": 25.0151581,
+    "lng": 121.2990328
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區南門里介壽路四一二號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區南門里介壽路四一二號一樓",
+    "lat": 24.9874711,
+    "lng": 121.3109743
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區南門里介壽路408號1樓及2樓-410號1樓-412號1樓及2樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區南門里介壽路408號1樓及2樓、410號1樓、412號1樓及2樓",
+    "lat": 24.978799,
+    "lng": 121.3041259
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區大林里桃鶯路四四五之一號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區大林里桃鶯路四四五之一號一樓",
+    "lat": 24.976878,
+    "lng": 121.323306
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中寧里中正路1069號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中寧里中正路1069號一樓",
+    "lat": 25.0161794,
+    "lng": 121.2982238
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區三民路三段108號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區三民路三段108號一樓",
+    "lat": 24.994244,
+    "lng": 121.3057182
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中山東路32之1號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中山東路32之1號一樓",
+    "lat": 24.9957777,
+    "lng": 121.3146289
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區中正路48巷16號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區中正路48巷16號一樓",
+    "lat": 24.9922475,
+    "lng": 121.3134354
+  },
+  {
+    "id": "convenience-store-全家-桃園市桃園區大豐路102號一樓",
+    "type": "convenience-store",
+    "name": "全家",
+    "address": "桃園市桃園區大豐路102號一樓",
+    "lat": 24.9804824,
+    "lng": 121.3168275
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區同德里中正路1047號",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區同德里中正路1047號",
+    "lat": 25.015441,
+    "lng": 121.298606
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區國際路1段1136號1樓",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區國際路1段1136號1樓",
+    "lat": 24.9877845,
+    "lng": 121.2894443
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區國際路2段117號1樓",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區國際路2段117號1樓",
+    "lat": 24.993101,
+    "lng": 121.287963
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區寶慶里中埔二街158-160號",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區寶慶里中埔二街158、160號",
+    "lat": 25.0127171,
+    "lng": 121.295691
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區天祥五街16號",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區天祥五街16號",
+    "lat": 25.0189352,
+    "lng": 121.3038373
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區新埔里天祥五街16號",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區新埔里天祥五街16號",
+    "lat": 25.0189352,
+    "lng": 121.3038373
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區大豐里延平路175號",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區大豐里延平路175號",
+    "lat": 24.9796974,
+    "lng": 121.3147012
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區桃鶯路196號1樓",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區桃鶯路196號1樓",
+    "lat": 24.9818849,
+    "lng": 121.3189089
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區慈文路317號1樓",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區慈文路317號1樓",
+    "lat": 25.006493,
+    "lng": 121.3017508
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區復興路380號1樓",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區復興路380號1樓",
+    "lat": 24.9903702,
+    "lng": 121.3037241
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區東門里東國街38號1樓之1",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區東門里東國街38號1樓之1",
+    "lat": 24.9967262,
+    "lng": 121.3142528
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區東門里東國街38號1樓之1",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區東門里東國街38號1樓之1",
+    "lat": 24.9967262,
+    "lng": 121.3142528
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區中成里正光路459號",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區中成里正光路459號",
+    "lat": 25.0016421,
+    "lng": 121.2940125
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區大有路466-468號1樓",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區大有路466、468號1樓",
+    "lat": 25.0124488,
+    "lng": 121.318887
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區中正路498-500號1-2樓",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區中正路498、500號1、2樓",
+    "lat": 25.0022573,
+    "lng": 121.3063876
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區三民路三段518號1樓",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區三民路三段518號1樓",
+    "lat": 24.9830259,
+    "lng": 121.3073488
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區春日里大業路2段51-53號",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區春日里大業路2段51、53號",
+    "lat": 25.0170745,
+    "lng": 121.3109498
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區大有路581號1樓",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區大有路581號1樓",
+    "lat": 25.0159481,
+    "lng": 121.3164209
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區東山里春日路69之1號",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區東山里春日路69之1號",
+    "lat": 24.9925551,
+    "lng": 121.3170097
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區莊敬路2段99號1樓",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區莊敬路2段99號1樓",
+    "lat": 25.0224954,
+    "lng": 121.2931185
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區忠義里大業路1段136號",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區忠義里大業路1段136號",
+    "lat": 25.0119348,
+    "lng": 121.3125892
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區三民路三段11巷1號1樓",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區三民路三段11巷1號1樓",
+    "lat": 24.998173,
+    "lng": 121.308233
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區大興里春日路682-684-686號",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區大興里春日路682、684、686號",
+    "lat": 25.011335,
+    "lng": 121.310531
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區中山東路32-10-32-11號1樓",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區中山東路32-10、32-11號1樓",
+    "lat": 24.995778,
+    "lng": 121.314629
+  },
+  {
+    "id": "convenience-store-全聯-桃園市桃園區永安路348號",
+    "type": "convenience-store",
+    "name": "全聯",
+    "address": "桃園市桃園區永安路348號",
+    "lat": 24.9994061,
+    "lng": 121.3023581
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區力行路100號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區力行路100號1樓",
+    "lat": 25.0020331,
+    "lng": 121.3026305
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區天祥七街101-103號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區天祥七街101、103號",
+    "lat": 25.0228983,
+    "lng": 121.2997872
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區建國路101號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區建國路101號1樓",
+    "lat": 24.9852157,
+    "lng": 121.311961
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大林里樹仁三街102號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大林里樹仁三街102號１樓",
+    "lat": 24.97424,
+    "lng": 121.3207473
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區同德六街103號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區同德六街103號1樓",
+    "lat": 25.0159931,
+    "lng": 121.2990872
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區永安路1040號-1040-1號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區永安路1040號、1040-1號1樓",
+    "lat": 25.0091464,
+    "lng": 121.2879268
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中山路1058號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中山路１０５８號１樓",
+    "lat": 24.9878599,
+    "lng": 121.2838607
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區莊敬路2段105號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區莊敬路2段105號1樓",
+    "lat": 25.0224105,
+    "lng": 121.2928814
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中正路1069號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中正路１０６９號１樓",
+    "lat": 25.0161794,
+    "lng": 121.2982238
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區南華街106號-108號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區南華街106號、108號1樓",
+    "lat": 24.9916067,
+    "lng": 121.3080428
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中正路1087號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中正路1087號1樓",
+    "lat": 25.01687,
+    "lng": 121.2979284
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大業路2段111號1樓之2",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大業路2段111號1樓之2",
+    "lat": 25.0183896,
+    "lng": 121.3106865
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區南華街113號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區南華街１１３號",
+    "lat": 24.991881,
+    "lng": 121.3076903
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區正光路116號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區正光路116號1樓",
+    "lat": 24.9956057,
+    "lng": 121.2954339
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中泰里國際路1段1179號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中泰里國際路1段1179號1樓",
+    "lat": 24.9891706,
+    "lng": 121.2885258
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中正路一一七號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中正路一一七號一樓",
+    "lat": 24.9930971,
+    "lng": 121.3119011
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區永福西街一一七號一-二樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區永福西街一一七號一、二樓",
+    "lat": 24.9638569,
+    "lng": 121.2948284
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區三民路一段118號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區三民路一段118號1樓",
+    "lat": 24.9987499,
+    "lng": 121.3209062
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區春日路1193號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區春日路1193號1樓",
+    "lat": 25.0152006,
+    "lng": 121.3088743
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區力行路385巷11-13號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區力行路385巷11、13號1樓",
+    "lat": 24.9983075,
+    "lng": 121.2976023
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區莊一街11-13號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區莊一街11、13號1樓",
+    "lat": 25.0223475,
+    "lng": 121.2952771
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區國際一路121號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區國際一路121號",
+    "lat": 24.9634271,
+    "lng": 121.2924267
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中正路1247號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中正路1247號1樓",
+    "lat": 25.0203121,
+    "lng": 121.2962983
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區三民路二段127-129號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區三民路二段127、129號1樓",
+    "lat": 25.0003096,
+    "lng": 121.3127678
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區莊敬路一段128號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區莊敬路一段１２８號１樓",
+    "lat": 25.0259266,
+    "lng": 121.3011575
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區長春路132號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區長春路１３２號１樓",
+    "lat": 25.0032317,
+    "lng": 121.3041903
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區春日路1344-1346號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區春日路1344、1346號1樓",
+    "lat": 25.0263454,
+    "lng": 121.3060995
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中山北路136號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中山北路136號1樓",
+    "lat": 24.9952043,
+    "lng": 121.3031954
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中正五街137-139號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中正五街137、139號1樓",
+    "lat": 25.0057724,
+    "lng": 121.3023622
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大有路141-143號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大有路141、143號1樓",
+    "lat": 25.0064602,
+    "lng": 121.3210569
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區漢中路146號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區漢中路146號1樓",
+    "lat": 24.9820254,
+    "lng": 121.3039235
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區春日路1484-1486號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區春日路1484、1486號1樓",
+    "lat": 25.0293835,
+    "lng": 121.3048385
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區北埔里莊二街148號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區北埔里莊二街148號1樓",
+    "lat": 25.0242091,
+    "lng": 121.2943478
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區延平路14號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區延平路１４號１樓",
+    "lat": 24.9879934,
+    "lng": 121.3138952
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中埔二街150號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中埔二街150號1樓",
+    "lat": 25.012561,
+    "lng": 121.2957881
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區民族路150號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區民族路150號1樓",
+    "lat": 24.9935809,
+    "lng": 121.3085008
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大業路一段152號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大業路一段152號",
+    "lat": 25.0072279,
+    "lng": 121.3161729
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區力行路156號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區力行路156號1樓",
+    "lat": 25.0014753,
+    "lng": 121.3014823
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區復興路一五九號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區復興路一五九號一樓",
+    "lat": 24.989641,
+    "lng": 121.310906
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區重慶街15號1樓-復興路83-85號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區重慶街15號1樓、復興路83、85號1樓",
+    "lat": 24.9906486,
+    "lng": 121.3143011
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中平路161號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中平路161號1樓",
+    "lat": 24.9855571,
+    "lng": 121.2936213
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區復興路162號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區復興路162號1樓",
+    "lat": 24.9904439,
+    "lng": 121.3123209
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區成功路二段165號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區成功路二段１６５號１樓",
+    "lat": 24.9949915,
+    "lng": 121.3191659
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中平路167號1-2樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中平路167號1、2樓",
+    "lat": 24.9852499,
+    "lng": 121.2938005
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區經國路168號b1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區經國路168號B1樓",
+    "lat": 25.0163128,
+    "lng": 121.3061737
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區延壽街一六九-一七一號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區延壽街一六九、一七一號",
+    "lat": 24.9943319,
+    "lng": 121.2890554
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區同德六街170號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區同德六街170號1樓",
+    "lat": 25.0155208,
+    "lng": 121.2968095
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區德華街173號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區德華街173號",
+    "lat": 24.9927184,
+    "lng": 121.2858612
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區寶慶路一七六號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區寶慶路一七六號",
+    "lat": 25.0132498,
+    "lng": 121.293185
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大興西路1段178號1樓-新埔五街83-85號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大興西路1段178號1樓、新埔五街83、85號",
+    "lat": 25.0143979,
+    "lng": 121.3045448
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區南平路185-187號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區南平路185、187號1樓",
+    "lat": 25.0194318,
+    "lng": 121.3021432
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區國聖一街188號1樓-宏昌十二街587號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區國聖一街188號1樓、宏昌十二街587號1樓",
+    "lat": 24.9844977,
+    "lng": 121.2885521
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區西湖里三民路三段190號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區西湖里三民路三段１９０號１樓",
+    "lat": 24.9926457,
+    "lng": 121.3057417
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大興西路二段1號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大興西路二段1號1樓",
+    "lat": 25.0119817,
+    "lng": 121.2999527
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區同德六街1號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區同德六街1號",
+    "lat": 25.0168244,
+    "lng": 121.3011096
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區桃智路1-3號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區桃智路1、3號1樓",
+    "lat": 24.9649563,
+    "lng": 121.2946716
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區莊二街1號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區莊二街1號",
+    "lat": 25.0249799,
+    "lng": 121.2970566
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區延平路202號1樓-大豐路194號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區延平路202號1樓、大豐路194號1樓",
+    "lat": 24.9804227,
+    "lng": 121.3145023
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區民生路208號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區民生路208號1樓",
+    "lat": 24.9942059,
+    "lng": 121.3130882
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區寶山街209號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區寶山街209號1樓",
+    "lat": 25.0121397,
+    "lng": 121.3162333
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區縣府路212-216號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區縣府路212、216號1樓",
+    "lat": 24.9946208,
+    "lng": 121.2999159
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區自強路215號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區自強路215號1樓",
+    "lat": 25.0003659,
+    "lng": 121.3169825
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區永安路219號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區永安路２１９號１樓",
+    "lat": 24.9982324,
+    "lng": 121.303697
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大興路221號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大興路221號1樓",
+    "lat": 25.0157853,
+    "lng": 121.312966
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中正路224號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中正路２２４號１樓",
+    "lat": 24.9956727,
+    "lng": 121.3105584
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區信光路22號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區信光路22號1樓",
+    "lat": 25.0062657,
+    "lng": 121.3075217
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中正路233號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中正路233號1樓",
+    "lat": 24.9958069,
+    "lng": 121.3102311
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區吉昌街237號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區吉昌街237號1樓",
+    "lat": 24.988256,
+    "lng": 121.2878791
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區春日路238-240號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區春日路238、240號1樓",
+    "lat": 24.9983973,
+    "lng": 121.3152039
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區莊敬里經國路242號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區莊敬里經國路242號1樓",
+    "lat": 25.020563,
+    "lng": 121.3040402
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區桃鶯路251號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區桃鶯路２５１號１樓",
+    "lat": 24.9838879,
+    "lng": 121.3187539
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區介壽路256號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區介壽路２５６號１樓",
+    "lat": 24.982253,
+    "lng": 121.3077887
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區經國一路25號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區經國一路25號",
+    "lat": 25.0291371,
+    "lng": 121.2990202
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大興路265號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大興路265號",
+    "lat": 25.0159753,
+    "lng": 121.3144605
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大業路1段277號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大業路1段277號1樓",
+    "lat": 25.0090186,
+    "lng": 121.3146438
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區寶山街280號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區寶山街280號1樓",
+    "lat": 25.0118495,
+    "lng": 121.3144802
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區宏昌六街281號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區宏昌六街281號1樓",
+    "lat": 24.9865453,
+    "lng": 121.2882162
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區民生路287-289號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區民生路287、289號1樓",
+    "lat": 24.9973426,
+    "lng": 121.3116508
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區延平路289號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區延平路289號1樓",
+    "lat": 24.9741923,
+    "lng": 121.3150187
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區三民里自強路2號-中山東路153號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區三民里自強路2號、中山東路153號1樓",
+    "lat": 24.9973172,
+    "lng": 121.3185536
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區溫州一路302-306號1-2樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區溫州一路302、306號1、2樓",
+    "lat": 25.002904,
+    "lng": 121.2895134
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區南平路306號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區南平路306號1樓",
+    "lat": 25.0184236,
+    "lng": 121.2985974
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中正路30號1-2樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中正路30號1、2樓",
+    "lat": 24.9900628,
+    "lng": 121.3132682
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區縣府路312號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區縣府路312號1樓",
+    "lat": 24.9925497,
+    "lng": 121.2999321
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區同安街317號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區同安街３１７號１樓",
+    "lat": 25.0166183,
+    "lng": 121.302697
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中正路324號1樓-桃園縣桃園市北新街66號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中正路３２４號１樓、桃園縣桃園市北新街66號1樓",
+    "lat": 24.9977875,
+    "lng": 121.3092358
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區永安路335-337號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區永安路３３５、３３７號１樓",
+    "lat": 24.9997123,
+    "lng": 121.3004426
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區同安街340-342號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區同安街340、342號",
+    "lat": 25.017069,
+    "lng": 121.3028262
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中正路342號1-2樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中正路342號1、2樓",
+    "lat": 24.9981725,
+    "lng": 121.3089849
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大業路1段355-357號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大業路１段３５５、３５７號１樓",
+    "lat": 25.012292,
+    "lng": 121.3122649
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區民光東路357-359號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區民光東路357、359號",
+    "lat": 25.0055863,
+    "lng": 121.3106597
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區復興路三六三號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區復興路三六三號",
+    "lat": 24.9899144,
+    "lng": 121.303895
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中埔六街36號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中埔六街３６號１樓",
+    "lat": 25.016493,
+    "lng": 121.2961702
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區三民路三段375號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區三民路三段３７５號１樓",
+    "lat": 24.990056,
+    "lng": 121.3069442
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區長春路37-39號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區長春路37、39號1樓",
+    "lat": 25.000816,
+    "lng": 121.3054963
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區永安路三八一-三八三號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區永安路三八一、三八三號",
+    "lat": 25.0008627,
+    "lng": 121.2989815
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區復興路389號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區復興路389號1樓",
+    "lat": 24.9907048,
+    "lng": 121.3024063
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區民生路391號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區民生路３９１號１樓",
+    "lat": 25.0001498,
+    "lng": 121.3103766
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區經國路405號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區經國路405號1樓",
+    "lat": 25.0174222,
+    "lng": 121.3049419
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中正路407-409號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中正路４０７、４０９號１樓",
+    "lat": 25.0003624,
+    "lng": 121.30734
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區力行路四十號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區力行路四十號１樓",
+    "lat": 25.0028277,
+    "lng": 121.3041935
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中正三街411號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中正三街411號",
+    "lat": 25.003716,
+    "lng": 121.2983869
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區南平路四一六-四一八號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區南平路四一六、四一八號一樓",
+    "lat": 25.0172596,
+    "lng": 121.295958
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區正光路425-427號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區正光路425、427號1樓",
+    "lat": 25.0010599,
+    "lng": 121.2941283
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大業路1段426號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大業路1段426號1樓",
+    "lat": 25.0149219,
+    "lng": 121.3118447
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區國際路2段426-428號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區國際路2段426、428號1樓",
+    "lat": 24.9985831,
+    "lng": 121.2884052
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區寶慶路四二八號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區寶慶路四二八號一樓",
+    "lat": 25.0187395,
+    "lng": 121.2903987
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區光興里中山北路42號1樓及地下1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區光興里中山北路４２號１樓及地下１樓",
+    "lat": 24.9931824,
+    "lng": 121.3034294
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大同路43號1樓及b1",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大同路43號1樓及B1",
+    "lat": 24.9894687,
+    "lng": 121.3124545
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中正路455號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中正路455號1樓",
+    "lat": 25.0013441,
+    "lng": 121.3067334
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大有路457號-459號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大有路457號、459號1樓",
+    "lat": 25.0119501,
+    "lng": 121.3187226
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區桃鶯路457-459號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區桃鶯路457、459號",
+    "lat": 24.9755679,
+    "lng": 121.3238273
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區安樂街四十五-四十七號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區安樂街四十五、四十七號１樓",
+    "lat": 24.9925715,
+    "lng": 121.3156094
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區壽昌街20巷45-47號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區壽昌街20巷45、47號1樓",
+    "lat": 24.9895165,
+    "lng": 121.2923753
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區寶慶路470號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區寶慶路470號1樓",
+    "lat": 25.0192315,
+    "lng": 121.2901623
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區桃鶯路四七二號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區桃鶯路四七二號一樓",
+    "lat": 24.9737604,
+    "lng": 121.3243263
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區安樂街48-50號1樓-安東街56號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區安樂街48、50號1樓、安東街56號1樓",
+    "lat": 24.9924927,
+    "lng": 121.3158685
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區三民路三段490-492號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區三民路三段490、492號1樓",
+    "lat": 24.9836937,
+    "lng": 121.3073138
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區民光路49號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區民光路49號1樓",
+    "lat": 25.0046653,
+    "lng": 121.3070303
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區延平路4-6號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區延平路4、6號1樓",
+    "lat": 24.988245,
+    "lng": 121.3137291
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區永安北路501號一樓-503號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區永安北路501號一樓、503號一樓",
+    "lat": 25.0197237,
+    "lng": 121.2921306
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區南平路502號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區南平路502號1樓",
+    "lat": 25.0164638,
+    "lng": 121.2940425
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區成功路3段50-52號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區成功路3段50、52號1樓",
+    "lat": 24.9998447,
+    "lng": 121.3256647
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區桃鶯路50-52號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區桃鶯路50、52號1樓",
+    "lat": 24.9869696,
+    "lng": 121.3178156
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區永安路511-513號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區永安路511、513號",
+    "lat": 25.0039565,
+    "lng": 121.2964069
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中山東路51號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中山東路51號1樓",
+    "lat": 24.996133,
+    "lng": 121.314668
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區慈文路51號1樓-正康三街284號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區慈文路51號1樓、正康三街284號1樓",
+    "lat": 25.0103677,
+    "lng": 121.3060229
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區民生路535號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區民生路535號1樓",
+    "lat": 25.0040253,
+    "lng": 121.3090485
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大有路547號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大有路547號1樓",
+    "lat": 25.0150911,
+    "lng": 121.3169759
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大業路1段54-56號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大業路1段54、56號1樓",
+    "lat": 25.0045823,
+    "lng": 121.3177746
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區富國路555號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區富國路555號1樓",
+    "lat": 25.0178842,
+    "lng": 121.2838424
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區國際路2段557-559號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區國際路2段557、559號1樓",
+    "lat": 25.0058816,
+    "lng": 121.2858996
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大有路560號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大有路560號1樓",
+    "lat": 25.0139968,
+    "lng": 121.3179985
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大有路561號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大有路561號1樓",
+    "lat": 25.0154849,
+    "lng": 121.3168102
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大同路五十七-五十九號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大同路五十七、五十九號",
+    "lat": 24.989364,
+    "lng": 121.3120594
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區民生路57號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區民生路57號1樓",
+    "lat": 24.9916043,
+    "lng": 121.3142857
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區新埔六街58-60號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區新埔六街58、60號1樓",
+    "lat": 25.0146168,
+    "lng": 121.3026459
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大業路1段59-61號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大業路1段59、61號1樓",
+    "lat": 25.0046059,
+    "lng": 121.3174006
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中華路5號1-2樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中華路5號1、2樓",
+    "lat": 24.9909675,
+    "lng": 121.3113328
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區永安路600號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區永安路600號1樓",
+    "lat": 25.0031033,
+    "lng": 121.297465
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區文中里仁愛路60號1-2樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區文中里仁愛路６０號１、２樓",
+    "lat": 24.994174,
+    "lng": 121.2931594
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中正路612號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中正路612號1樓",
+    "lat": 25.0047469,
+    "lng": 121.3048088
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中正路612號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中正路６１２號１樓",
+    "lat": 25.0047469,
+    "lng": 121.3048088
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中正路618-620號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中正路６１８、６２０號１樓",
+    "lat": 25.0049356,
+    "lng": 121.3047425
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大連一街61號-正康四街8號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大連一街61號、正康四街8號1樓",
+    "lat": 25.0074601,
+    "lng": 121.3060102
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中正路650號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中正路650號1樓",
+    "lat": 25.0056156,
+    "lng": 121.3042534
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區文中路65號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區文中路65號1樓",
+    "lat": 24.995764,
+    "lng": 121.2932881
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大有路660號1樓之2",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大有路660號1樓之2",
+    "lat": 25.0167546,
+    "lng": 121.3165839
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區春日路670號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區春日路670號1樓",
+    "lat": 25.0106059,
+    "lng": 121.3106774
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區長安里中正路六八七號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區長安里中正路六八七號一樓",
+    "lat": 25.0064251,
+    "lng": 121.3034357
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大有路6號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大有路6號1樓",
+    "lat": 25.0037789,
+    "lng": 121.3239723
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大豐路70號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大豐路７０號１樓",
+    "lat": 24.9806328,
+    "lng": 121.3176145
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區春日路736號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區春日路７３６號１樓",
+    "lat": 25.0121983,
+    "lng": 121.3100945
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區永安路739號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區永安路739號1樓",
+    "lat": 25.007371,
+    "lng": 121.291242
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區民族路79號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區民族路79號1樓",
+    "lat": 24.9908749,
+    "lng": 121.3094754
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區力行路7號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區力行路7號1樓",
+    "lat": 25.0030209,
+    "lng": 121.3050743
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區經國路801號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區經國路801號",
+    "lat": 25.028584,
+    "lng": 121.3004275
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區民族路八十號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區民族路八十號１樓",
+    "lat": 24.9907971,
+    "lng": 121.3097937
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區復興路80號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區復興路80號1樓",
+    "lat": 24.9910906,
+    "lng": 121.3162592
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中山東路八十一號春日路188號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中山東路八十一號春日路１８８號１樓",
+    "lat": 24.9964113,
+    "lng": 121.3159245
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中正路820號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中正路820號1樓",
+    "lat": 25.009532,
+    "lng": 121.3020337
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大興西路二段82號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大興西路二段82號1樓",
+    "lat": 25.0115863,
+    "lng": 121.2982404
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區經國路838號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區經國路838號1樓",
+    "lat": 25.0309119,
+    "lng": 121.3007896
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區金門二街八十三-九十三號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區金門二街八十三、九十三號一樓",
+    "lat": 24.981693,
+    "lng": 121.3168005
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區三民路3段84-86號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區三民路3段84、86號1樓",
+    "lat": 24.9948187,
+    "lng": 121.3057061
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區民安路84號-忠五路169號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區民安路84號、忠五路169號",
+    "lat": 24.9975994,
+    "lng": 121.2997642
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區安慶街84-86號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區安慶街84、86號1樓",
+    "lat": 25.0182983,
+    "lng": 121.292685
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區經國路860號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區經國路860號1樓",
+    "lat": 25.0316797,
+    "lng": 121.3006819
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中山路888-890號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中山路８８８、８９０號１樓",
+    "lat": 24.9901414,
+    "lng": 121.2886732
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區健行路88號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區健行路88號",
+    "lat": 25.0220038,
+    "lng": 121.3101014
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區經國二路89號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區經國二路89號1樓",
+    "lat": 25.0298491,
+    "lng": 121.2979848
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區成功路3段8號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區成功路3段8號1樓",
+    "lat": 24.9973234,
+    "lng": 121.325076
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區長沙街90號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區長沙街90號1樓",
+    "lat": 24.9799964,
+    "lng": 121.3095067
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大有路914號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大有路914號",
+    "lat": 25.0211836,
+    "lng": 121.3148191
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中平路九十一號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中平路九十一號一樓",
+    "lat": 24.9881483,
+    "lng": 121.2928546
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中平路九十一號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中平路九十一號一樓",
+    "lat": 24.9881483,
+    "lng": 121.2928546
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區文中路九十三號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區文中路九十三號一樓",
+    "lat": 24.995744,
+    "lng": 121.2925567
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區玉山里秀山路95號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區玉山里秀山路95號",
+    "lat": 24.9884505,
+    "lng": 121.3018192
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區慈文路975號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區慈文路975號",
+    "lat": 25.0004209,
+    "lng": 121.288523
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區同德十一街98-100號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區同德十一街98、100號1樓",
+    "lat": 25.0204568,
+    "lng": 121.2955728
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區莊敬路二段九十九號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區莊敬路二段九十九號一樓",
+    "lat": 25.0224954,
+    "lng": 121.2931185
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大誠路九號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大誠路九號一樓",
+    "lat": 24.9837346,
+    "lng": 121.3222397
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區延壽街9-11號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區延壽街9、11號1樓",
+    "lat": 24.9917646,
+    "lng": 121.293411
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區力行路515號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區力行路515號1樓",
+    "lat": 24.9990064,
+    "lng": 121.2974857
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大林路六十二號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大林路六十二號一樓",
+    "lat": 24.9873969,
+    "lng": 121.313261
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大業路一段316之7號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大業路一段316之7號1樓",
+    "lat": 25.0046255,
+    "lng": 121.3176415
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大興西路二段253號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大興西路二段253號1樓",
+    "lat": 25.0099446,
+    "lng": 121.2959064
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區正光二街155號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區正光二街155號1樓",
+    "lat": 25.000211,
+    "lng": 121.2949842
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區永安路834號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區永安路８３４號１樓",
+    "lat": 25.0090007,
+    "lng": 121.2881624
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區成功路一段四十七號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區成功路一段四十七號一樓",
+    "lat": 24.9924555,
+    "lng": 121.3115567
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區青溪一路1號及中央街223號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區青溪一路1號及中央街223號",
+    "lat": 25.002178,
+    "lng": 121.314417
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區春日路666號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區春日路666號1樓",
+    "lat": 24.9914189,
+    "lng": 121.3177657
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區國際路一段五三八號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區國際路一段五三八號",
+    "lat": 24.9680237,
+    "lng": 121.2917673
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區復興路239之1-241號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區復興路239之1、241號1樓",
+    "lat": 24.9907174,
+    "lng": 121.3136236
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大興西路二段二0六號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大興西路二段二０六號一樓",
+    "lat": 25.010139,
+    "lng": 121.295306
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區大興路二0五-二0七號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區大興路二０五，二０七號",
+    "lat": 25.015297,
+    "lng": 121.312406
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中山路七0一號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中山路七０一號",
+    "lat": 24.99077,
+    "lng": 121.291642
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中平路102號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中平路102號一樓",
+    "lat": 24.986958,
+    "lng": 121.292679
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區中華路117號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區中華路117號1樓",
+    "lat": 24.9898362,
+    "lng": 121.3083129
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區莊敬路二段47號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區莊敬路二段47號",
+    "lat": 25.0224906,
+    "lng": 121.2934455
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區正康二街76號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區正康二街76號",
+    "lat": 25.0022131,
+    "lng": 121.3084451
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區民安路102號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區民安路102號",
+    "lat": 24.9962427,
+    "lng": 121.2997926
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區永安路1018號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區永安路1018號一樓",
+    "lat": 24.9977388,
+    "lng": 121.3049879
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區永福西街113號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區永福西街113號1樓",
+    "lat": 24.963696,
+    "lng": 121.2952683
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區成功路三段48號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區成功路三段48號1樓",
+    "lat": 24.9997275,
+    "lng": 121.3258565
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區莊敬路1段177號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區莊敬路1段177號1樓",
+    "lat": 25.0251759,
+    "lng": 121.3002127
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區經國路685號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區經國路685號1樓",
+    "lat": 25.0237601,
+    "lng": 121.3020985
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區自強路81號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區自強路81號",
+    "lat": 24.9969329,
+    "lng": 121.3184474
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區和平路110號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區和平路110號1樓",
+    "lat": 24.9955107,
+    "lng": 121.3086276
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區南豐三街120號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區南豐三街120號一樓",
+    "lat": 24.9822268,
+    "lng": 121.303918
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區建國路156號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區建國路156號",
+    "lat": 24.9853418,
+    "lng": 121.3102147
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區建國路41號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區建國路41號1樓",
+    "lat": 24.9857328,
+    "lng": 121.3168592
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區建國路49之1號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區建國路49之1號",
+    "lat": 24.9857069,
+    "lng": 121.3163271
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區春日路874號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區春日路874號１樓",
+    "lat": 25.0152559,
+    "lng": 121.3093739
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區桃鶯路236號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區桃鶯路236號",
+    "lat": 24.9801512,
+    "lng": 121.3199548
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區桃鶯路384號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區桃鶯路384號1樓",
+    "lat": 24.976613,
+    "lng": 121.322824
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區泰昌三街2號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區泰昌三街2號",
+    "lat": 24.9903883,
+    "lng": 121.2937746
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區泰昌三街51號",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區泰昌三街51號",
+    "lat": 24.9883669,
+    "lng": 121.2947126
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區國際路一段1095號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區國際路一段1095號一樓",
+    "lat": 24.9867171,
+    "lng": 121.289306
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區延平路161號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區延平路161號一樓",
+    "lat": 24.9757765,
+    "lng": 121.3146667
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區建國路1號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區建國路1號1樓",
+    "lat": 24.9851606,
+    "lng": 121.3122193
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區慈德街74號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區慈德街74號一樓",
+    "lat": 25.0077643,
+    "lng": 121.3003397
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區慈德街55號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區慈德街55號1樓",
+    "lat": 25.0073545,
+    "lng": 121.300775
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區萬壽路3段113號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區萬壽路3段113號1樓",
+    "lat": 24.9912343,
+    "lng": 121.3209258
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區萬壽路三段43號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區萬壽路三段43號1樓",
+    "lat": 24.9917516,
+    "lng": 121.3225256
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區建新街68號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區建新街68號1樓",
+    "lat": 24.9827413,
+    "lng": 121.3118853
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區樹仁三街81號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區樹仁三街81號1樓",
+    "lat": 24.9743682,
+    "lng": 121.3222241
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區縣府路88之1號1樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區縣府路88之1號1樓",
+    "lat": 24.993791,
+    "lng": 121.302586
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區縣府路308號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區縣府路308號一樓",
+    "lat": 24.9926536,
+    "lng": 121.3000085
+  },
+  {
+    "id": "convenience-store-711-桃園市桃園區寶山街206號一樓",
+    "type": "convenience-store",
+    "name": "711",
+    "address": "桃園市桃園區寶山街206號一樓",
+    "lat": 25.0123872,
+    "lng": 121.3162853
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區中山北路136號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區中山北路１３６號１樓",
+    "lat": 24.9952043,
+    "lng": 121.3031954
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區中正五街137號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區中正五街１３７號１樓",
+    "lat": 25.0057724,
+    "lng": 121.3023622
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區春日路1411-1413號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區春日路１４１１、１４１３號１樓",
+    "lat": 25.0205239,
+    "lng": 121.3080918
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區文化里復興路一五一號一樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區文化里復興路一五一號一樓",
+    "lat": 24.9898043,
+    "lng": 121.3112849
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區中埔二街155號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區中埔二街155號1樓",
+    "lat": 25.0127209,
+    "lng": 121.295473
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區建國路156之9號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區建國路156之9號1樓",
+    "lat": 24.9853779,
+    "lng": 121.3096239
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區中華路166號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區中華路１６６號１樓",
+    "lat": 24.9897997,
+    "lng": 121.3070817
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區文中東路169號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區文中東路169號1樓",
+    "lat": 24.9948048,
+    "lng": 121.2983888
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區大興西路1段179號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區大興西路１段１７９號１樓",
+    "lat": 25.0140279,
+    "lng": 121.304565
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區民族路204號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區民族路204號1樓",
+    "lat": 24.9950129,
+    "lng": 121.3076503
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區中正路269號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區中正路２６９號１樓",
+    "lat": 24.9966173,
+    "lng": 121.3097182
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區法治路2號-4號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區法治路2號、4號1樓",
+    "lat": 24.9926045,
+    "lng": 121.296539
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區泰昌三街二號-二之一號一樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區泰昌三街二號、二之一號一樓",
+    "lat": 24.9903883,
+    "lng": 121.2937746
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區永安路335-337號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區永安路３３５、３３７號１樓",
+    "lat": 24.9997123,
+    "lng": 121.3004426
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區同安街340-342號1樓-338巷1號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區同安街340、342號1樓、338巷1號1樓",
+    "lat": 25.017069,
+    "lng": 121.3028262
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區力行路40號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區力行路40號1樓",
+    "lat": 25.0028277,
+    "lng": 121.3041935
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區介壽路47號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區介壽路４７號１樓",
+    "lat": 24.9851193,
+    "lng": 121.3106833
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區民生路621之1號1一樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區民生路６２１之１號１一樓",
+    "lat": 25.0064897,
+    "lng": 121.3083406
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區中正路650號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區中正路６５０號１樓",
+    "lat": 25.0056156,
+    "lng": 121.3042534
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區大有路658號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區大有路６５８號１樓",
+    "lat": 25.0163899,
+    "lng": 121.316642
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區中山路676號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區中山路６７６號１樓",
+    "lat": 24.9911756,
+    "lng": 121.2948448
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區南華街67號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區南華街67號1樓",
+    "lat": 24.9908142,
+    "lng": 121.3081294
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區樹仁三街68號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區樹仁三街68號1樓",
+    "lat": 24.9745266,
+    "lng": 121.3217673
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區延壽街6號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區延壽街６號１樓",
+    "lat": 24.9916761,
+    "lng": 121.2938044
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區永安路754號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區永安路７５４號１樓",
+    "lat": 25.0059105,
+    "lng": 121.2949522
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區春日路七五八號一樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區春日路七五八號一樓",
+    "lat": 25.0127392,
+    "lng": 121.3098469
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區中華路75號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區中華路75號1樓",
+    "lat": 24.9905761,
+    "lng": 121.3100968
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區正康二街83號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區正康二街83號1樓",
+    "lat": 25.0011194,
+    "lng": 121.3087973
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區博愛路97-99號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區博愛路97、99號1樓",
+    "lat": 24.9945934,
+    "lng": 121.3095484
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區民安路九十八號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區民安路九十八號１樓",
+    "lat": 24.9969087,
+    "lng": 121.29972
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區春日路98號1樓-成功路2段83號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區春日路９８號１樓、成功路２段８３號１樓",
+    "lat": 24.9942568,
+    "lng": 121.316764
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區中山路992-994號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區中山路９９２、９９４號１樓",
+    "lat": 24.988715,
+    "lng": 121.2857604
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區玉山里大同西路九十三號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區玉山里大同西路九十三號１樓",
+    "lat": 24.9886543,
+    "lng": 121.3015373
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區大有路656號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區大有路656號1樓",
+    "lat": 25.016138,
+    "lng": 121.316734
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區春日路634號一樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區春日路634號一樓",
+    "lat": 25.0096392,
+    "lng": 121.3111186
+  },
+  {
+    "id": "convenience-store-ok-mart-桃園市桃園區桃鶯路384號1樓",
+    "type": "convenience-store",
+    "name": "OK mart",
+    "address": "桃園市桃園區桃鶯路384號１樓",
+    "lat": 24.976613,
+    "lng": 121.322824
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區厦門街100-102號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區厦門街100、102號1樓",
+    "lat": 24.9946847,
+    "lng": 121.2973625
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區中正路103號",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區中正路103號",
+    "lat": 24.9927861,
+    "lng": 121.3120182
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區汴洲里健行路103號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區汴洲里健行路103號1樓",
+    "lat": 25.0226682,
+    "lng": 121.311914
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區宏昌六街108號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區宏昌六街108號1樓",
+    "lat": 24.9881478,
+    "lng": 121.2960869
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區慈文路一一五號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區慈文路一一五號一樓",
+    "lat": 25.0093425,
+    "lng": 121.3046415
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區建國東路一一號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區建國東路一一號一樓",
+    "lat": 24.9862845,
+    "lng": 121.31892
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區國際路一段一二二四-一二二六號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區國際路一段一二二四、一二二六號一樓",
+    "lat": 24.9897625,
+    "lng": 121.2888217
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區南門里漢中路123號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區南門里漢中路123號1樓",
+    "lat": 24.9832687,
+    "lng": 121.3036114
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區中正路一二四七號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區中正路一二四七號一樓",
+    "lat": 25.0203121,
+    "lng": 121.2962983
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區大有路128號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區大有路128號1樓",
+    "lat": 25.0062922,
+    "lng": 121.3214899
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區寶安里安慶街129號-131號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區寶安里安慶街129號、131號1樓",
+    "lat": 25.0179988,
+    "lng": 121.2912633
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區大有路一四五號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區大有路一四五號一樓",
+    "lat": 25.0065344,
+    "lng": 121.3210086
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區中山東路一五三號-自強路二號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區中山東路一五三號、自強路二號一樓",
+    "lat": 24.9972496,
+    "lng": 121.3185675
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區中華路一六六號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區中華路一六六號一樓",
+    "lat": 24.9897997,
+    "lng": 121.3070817
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區中泰里國聖一街166號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區中泰里國聖一街166號1樓",
+    "lat": 24.9854837,
+    "lng": 121.2884343
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區同安里慈文路170號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區同安里慈文路170號1樓",
+    "lat": 25.0092166,
+    "lng": 121.3042472
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區大興路172號",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區大興路172號",
+    "lat": 25.0158312,
+    "lng": 121.3113505
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區大興路一七四號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區大興路一七四號一樓",
+    "lat": 25.0158676,
+    "lng": 121.3115578
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區三元里大有路175號-179號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區三元里大有路175號、179號1樓",
+    "lat": 25.0074126,
+    "lng": 121.3205003
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區長德里力行路194號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區長德里力行路194號1樓",
+    "lat": 25.0009936,
+    "lng": 121.3005748
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區莊敬路二段一九五號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區莊敬路二段一九五號一樓",
+    "lat": 25.0213672,
+    "lng": 121.2903715
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區力行路328巷21-23號1樓及正光二街71巷31號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區力行路328巷21、23號1樓及正光二街71巷31號1樓",
+    "lat": 24.9996215,
+    "lng": 121.2964632
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區大林里桃鶯路220號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區大林里桃鶯路220號1樓",
+    "lat": 24.9806889,
+    "lng": 121.3195046
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區中正五街225號",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區中正五街225號",
+    "lat": 25.0035563,
+    "lng": 121.3016163
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區長德里中正五街238號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區長德里中正五街238號1樓",
+    "lat": 25.0032738,
+    "lng": 121.3015163
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區南門里建國路276號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區南門里建國路276號1樓",
+    "lat": 24.9850542,
+    "lng": 121.3057084
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區復興路四一八巷三號四二0-四二二號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區復興路四一八巷三號四二０、四二二號一樓",
+    "lat": 24.9915152,
+    "lng": 121.3031021
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區中華路二十七號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區中華路二十七號一樓",
+    "lat": 24.9909433,
+    "lng": 121.3112629
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區建國里林森路29號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區建國里林森路29號1樓",
+    "lat": 24.9890149,
+    "lng": 121.3190498
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區大業路1段2號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區大業路１段２號１樓",
+    "lat": 25.0034146,
+    "lng": 121.3189436
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區莊敬里莊敬路1段304號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區莊敬里莊敬路1段304號1樓",
+    "lat": 25.0244433,
+    "lng": 121.2974181
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區文化里中正路三十一號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區文化里中正路三十一號一樓",
+    "lat": 24.9901006,
+    "lng": 121.3130593
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區文中路333-335號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區文中路333、335號1樓",
+    "lat": 24.9953281,
+    "lng": 121.2857553
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區成功路一段三十七號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區成功路一段三十七號一樓",
+    "lat": 24.9923914,
+    "lng": 121.3117388
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區永安里長春路37號1樓-39號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區永安里長春路37號1樓、39號1樓",
+    "lat": 25.000816,
+    "lng": 121.3054963
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區大業路1段397號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區大業路1段397號1樓",
+    "lat": 25.0140368,
+    "lng": 121.3117508
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區力行路40號",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區力行路40號",
+    "lat": 25.0028277,
+    "lng": 121.3041935
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區中山北路42號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區中山北路42號1樓",
+    "lat": 24.9931824,
+    "lng": 121.3034294
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區中德里國際路1段431號",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區中德里國際路1段431號",
+    "lat": 24.9712626,
+    "lng": 121.2890945
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區寶慶路四三二號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區寶慶路四三二號一樓",
+    "lat": 25.0189637,
+    "lng": 121.2902757
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區同安街442之5-444號",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區同安街442之5、444號",
+    "lat": 25.0195031,
+    "lng": 121.3011089
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區大林里桃鶯路457號-459號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區大林里桃鶯路457號、459號1樓",
+    "lat": 24.9755679,
+    "lng": 121.3238273
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區永安北路466-468號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區永安北路466、468號1樓",
+    "lat": 25.0180019,
+    "lng": 121.2928617
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區寶安里永安北路466號-468號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區寶安里永安北路466號、468號1樓",
+    "lat": 25.0180019,
+    "lng": 121.2928617
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區永安里長春路四十六號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區永安里長春路四十六號一樓",
+    "lat": 25.0009783,
+    "lng": 121.3055889
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區忠義里成功路三段48號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區忠義里成功路三段４８號一樓",
+    "lat": 24.9997275,
+    "lng": 121.3258565
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區大有里大有路491號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區大有里大有路491號1樓",
+    "lat": 25.0128682,
+    "lng": 121.3181817
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區大林里樹仁二街50號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區大林里樹仁二街50號1樓",
+    "lat": 24.9783454,
+    "lng": 121.3201124
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區會稽里大有路511號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區會稽里大有路511號1樓",
+    "lat": 25.0141813,
+    "lng": 121.317485
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區大仁路54-56號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區大仁路54、56號1樓",
+    "lat": 24.9723347,
+    "lng": 121.3231872
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區富國路558號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區富國路５５８號１樓",
+    "lat": 25.0183121,
+    "lng": 121.2842836
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區中寧里大興西路2段55號1樓之2",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區中寧里大興西路2段55號1樓之2",
+    "lat": 25.0114785,
+    "lng": 121.2989263
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區文中東路61-63號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區文中東路61、63號1樓",
+    "lat": 24.9960599,
+    "lng": 121.2961995
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區慈光街63號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區慈光街63號1樓",
+    "lat": 25.0053105,
+    "lng": 121.2981389
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區中正里中山路676號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區中正里中山路６７６號１樓",
+    "lat": 24.9911756,
+    "lng": 121.2948448
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區大有路726-728號1-2樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區大有路726、728號1-2樓",
+    "lat": 25.0185879,
+    "lng": 121.3159367
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區自強路72號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區自強路72號1樓",
+    "lat": 24.9989395,
+    "lng": 121.3179193
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區中山路779號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區中山路779號1樓",
+    "lat": 24.9902471,
+    "lng": 121.2901386
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區汴洲里健行路78號80號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區汴洲里健行路７８號８０號１樓",
+    "lat": 25.0219102,
+    "lng": 121.3097721
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區寶慶里寶慶路八十號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區寶慶里寶慶路八十號一樓",
+    "lat": 25.011151,
+    "lng": 121.2943536
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區中山里中平路八十四號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區中山里中平路八十四號一樓",
+    "lat": 24.9882392,
+    "lng": 121.2924932
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區自強路85號及中山東路151號1-2樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區自強路85號及中山東路151號1、2樓",
+    "lat": 24.9972547,
+    "lng": 121.3181738
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區中寧里大興西路2段8號",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區中寧里大興西路2段8號",
+    "lat": 25.0093526,
+    "lng": 121.295755
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區桃園市三民里三民路1段99號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區桃園市三民里三民路1段99號1樓",
+    "lat": 24.9996349,
+    "lng": 121.3200354
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區南埔里大興西路二段二五三號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區南埔里大興西路二段二五三號一樓",
+    "lat": 25.0099446,
+    "lng": 121.2959064
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區文中路198號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區文中路198號1樓",
+    "lat": 24.9958826,
+    "lng": 121.2909449
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區民生路129號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區民生路129號1樓",
+    "lat": 24.9922629,
+    "lng": 121.3138959
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區建新街277號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區建新街277號1樓",
+    "lat": 24.9765908,
+    "lng": 121.3098613
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區朝陽街240號-清溪二路77號1樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區朝陽街240號、清溪二路77號1樓",
+    "lat": 25.0019511,
+    "lng": 121.3121993
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區中正路1001號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區中正路1001號一樓",
+    "lat": 25.0140495,
+    "lng": 121.2992065
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區南平路280號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區南平路280號一樓",
+    "lat": 25.018822,
+    "lng": 121.2996301
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區桃鶯路220號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區桃鶯路220號一樓",
+    "lat": 24.9806889,
+    "lng": 121.3195046
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區潮洲街3號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區潮洲街3號一樓",
+    "lat": 24.9868736,
+    "lng": 121.3005217
+  },
+  {
+    "id": "convenience-store-萊爾富-桃園市桃園區豐林里建國路260號一樓",
+    "type": "convenience-store",
+    "name": "萊爾富",
+    "address": "桃園市桃園區豐林里建國路260號一樓",
+    "lat": 24.9850711,
+    "lng": 121.3062883
+  }
+]

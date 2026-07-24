@@ -1,0 +1,148 @@
+@import "leaflet/dist/leaflet.css";
+@import "leaflet.markercluster/dist/MarkerCluster.css";
+@import "leaflet.markercluster/dist/MarkerCluster.Default.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 42 28% 96%;
+  --foreground: 160 14% 13%;
+  --card: 45 44% 99%;
+  --card-foreground: 160 14% 13%;
+  --primary: 176 76% 26%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 38 42% 90%;
+  --secondary-foreground: 160 14% 13%;
+  --muted: 42 23% 91%;
+  --muted-foreground: 150 7% 43%;
+  --accent: 182 48% 89%;
+  --accent-foreground: 176 70% 21%;
+  --border: 40 21% 84%;
+  --input: 40 21% 84%;
+  --ring: 176 76% 26%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#__next {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background: hsl(var(--background));
+  color: hsl(var(--foreground));
+  font-family: Inter, "Noto Sans TC", "Microsoft JhengHei", system-ui, sans-serif;
+}
+
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  font-family: inherit;
+}
+
+.community-label {
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.community-label span {
+  display: block;
+  transform: translate(-50%, -38px);
+  border: 1px solid rgba(15, 118, 110, 0.34);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.96);
+  color: #115e59;
+  padding: 4px 8px;
+  font-size: 12px;
+  font-weight: 800;
+  white-space: nowrap;
+  box-shadow: 0 8px 20px rgba(28, 36, 33, 0.16);
+}
+
+.map-circle-marker {
+  width: 100%;
+  height: 100%;
+  border: 2px solid white;
+  border-radius: 999px;
+  box-shadow: 0 9px 22px rgba(15, 23, 42, 0.28);
+}
+
+.house-marker {
+  background: #6b7280;
+  box-shadow: 0 10px 24px rgba(28, 36, 33, 0.28);
+}
+
+.poi-marker-youbike {
+  background: #facc15;
+}
+
+.poi-marker-city-bus {
+  background: #2563eb;
+}
+
+.poi-marker-intercity-bus {
+  background: #16a34a;
+}
+
+.poi-marker-school {
+  background: #f97316;
+}
+
+.poi-marker-convenience-store {
+  background: #ef4444;
+}
+
+.property-scrollbox,
+.traffic-scrollbox {
+  scrollbar-color: #0f766e #e7e5df;
+  scrollbar-width: thin;
+}
+
+.property-scrollbox::-webkit-scrollbar,
+.traffic-scrollbox::-webkit-scrollbar {
+  width: 10px;
+}
+
+.property-scrollbox::-webkit-scrollbar-track,
+.traffic-scrollbox::-webkit-scrollbar-track {
+  border-radius: 999px;
+  background: #e7e5df;
+}
+
+.property-scrollbox::-webkit-scrollbar-thumb,
+.traffic-scrollbox::-webkit-scrollbar-thumb {
+  border: 2px solid #e7e5df;
+  border-radius: 999px;
+  background: #0f766e;
+}
+
+.map-popup .leaflet-popup-content {
+  margin: 12px 14px;
+  min-width: 220px;
+}
+
+.map-popup a {
+  font-weight: 700;
+}
+
+.marker-cluster-small,
+.marker-cluster-medium,
+.marker-cluster-large {
+  background-color: rgba(15, 118, 110, 0.2);
+}
+
+.marker-cluster-small div,
+.marker-cluster-medium div,
+.marker-cluster-large div {
+  background-color: #0f766e;
+  color: white;
+  font-weight: 800;
+}
