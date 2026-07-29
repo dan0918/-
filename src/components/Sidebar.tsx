@@ -59,7 +59,7 @@ export function Sidebar({
 
   if (collapsed) {
     return (
-      <aside className="pointer-events-none relative z-[1000] h-screen min-h-0 bg-transparent">
+      <aside className="pointer-events-none fixed inset-0 z-[1000] bg-transparent">
         <div
           className="shadow-md"
           style={{
@@ -98,7 +98,7 @@ export function Sidebar({
   }
 
   return (
-    <aside className="flex h-screen min-h-0 flex-col gap-4 overflow-hidden border-r border-border bg-card p-5">
+    <aside className="fixed left-0 top-0 z-[1000] flex h-[100dvh] min-h-0 w-[min(380px,calc(100vw-56px))] max-w-[380px] flex-col gap-4 overflow-hidden border-r border-border bg-card p-4 shadow-2xl sm:p-5">
       <header className="flex items-start justify-between gap-3">
         <div>
           <p className="text-xs font-bold uppercase text-primary">House Notes</p>

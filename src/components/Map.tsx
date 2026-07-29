@@ -67,7 +67,7 @@ export function CommunityMap({
       maxBounds={leafletMaxBounds}
       maxBoundsViscosity={1}
       zoomControl={false}
-      className="z-0"
+      className="z-0 h-full w-full"
     >
       <TileLayer attribution="&copy; OpenStreetMap contributors" url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
       <MapControls fitSignal={fitSignal} />

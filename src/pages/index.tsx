@@ -326,10 +326,7 @@ export default function HomePage() {
         <link rel="icon" href="/icons/app-icon-192.png" />
         <link rel="apple-touch-icon" href="/icons/app-icon-192.png" />
       </Head>
-      <main
-        className="grid h-screen overflow-hidden"
-        style={{ gridTemplateColumns: sidebarCollapsed ? "0 minmax(0, 1fr)" : "380px minmax(0, 1fr)" }}
-      >
+      <main className="relative h-screen overflow-hidden">
         <Sidebar
           collapsed={sidebarCollapsed}
           communities={boundedCommunities}
@@ -350,7 +347,7 @@ export default function HomePage() {
           onFocusAmenity={focusAmenity}
           onFocusRoute={focusRoute}
         />
-        <section className="relative min-h-0">
+        <section className="absolute inset-0 z-0 min-h-0">
           {isClient ? (
             <CommunityMap
               communities={boundedCommunities}
