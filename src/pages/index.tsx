@@ -79,7 +79,9 @@ export default function HomePage() {
   const [enabledLayers, setEnabledLayers] = useState<Record<LayerKey, boolean>>(defaultLayers);
   const [fitSignal, setFitSignal] = useState(0);
   const [queryBounds, setQueryBounds] = useState<MapQueryBounds>();
+  const [viewportBounds, setViewportBounds] = useState<MapQueryBounds>();
   const [nearbyTransit, setNearbyTransit] = useState<NearbyTransitResult>();
+  const [nearbyTransitMarkersVisible, setNearbyTransitMarkersVisible] = useState(false);
   const [selectedAmenityId, setSelectedAmenityId] = useState<string>();
   const [selectedRouteAmenityIds, setSelectedRouteAmenityIds] = useState<string[]>([]);
   const [selectedRouteLayer, setSelectedRouteLayer] = useState<LayerKey>();
@@ -227,7 +229,13 @@ export default function HomePage() {
     setSelectedRouteLayer(undefined);
     setSelectedRoutePopupAmenityId(undefined);
     setScopedQueryBounds(undefined);
+    setNearbyTransitMarkersVisible(false);
   }, []);
+
+  const clearCollapsedMapLayers = useCallback(() => {
+    clearScopedAmenities();
+    setEnabledLayers(defaultLayers);
+  }, [clearScopedAmenities]);
 
   const toggleAllLayers = useCallback(() => {
     clearScopedAmenities();
@@ -289,7 +297,46 @@ export default function HomePage() {
       cityBusRoutes: uniqueSortedRoutes(cityBusStopsNearby),
       intercityBusRoutes: uniqueSortedRoutes(intercityBusStopsNearby)
     });
+    setNearbyTransitMarkersVisible(false);
   }, [amenities, clearScopedAmenities, queryBounds]);
+
+  const toggleNearbyTransitMarkers = useCallback(() => {
+    if (nearbyTransitMarkersVisible) {
+      setSelectedAmenityId(undefined);
+      setSelectedRouteLayer(undefined);
+      setSelectedRouteAmenityIds([]);
+      setSelectedRoutePopupAmenityId(undefined);
+      setScopedQueryBounds(undefined);
+      setNearbyTransitMarkersVisible(false);
+      return;
+    }
+
+    const transitAmenityIds = [...(nearbyTransit?.youbikeStations ?? []), ...(nearbyTransit?.busStops ?? [])].map((amenity) => amenity.id);
+    if (!transitAmenityIds.length) return;
+
+    setSelectedAmenityId(undefined);
+    setSelectedRouteLayer(undefined);
+    setSelectedRouteAmenityIds(transitAmenityIds);
+    setSelectedRoutePopupAmenityId(undefined);
+    setScopedQueryBounds(nearbyTransit?.bounds ?? queryBounds);
+    setNearbyTransitMarkersVisible(true);
+  }, [nearbyTransit, nearbyTransitMarkersVisible, queryBounds]);
+
+  const showQueryBoundsAmenities = useCallback(() => {
+    const bounds = viewportBounds ?? queryBounds;
+    if (!bounds) return;
+
+    const amenityIds = amenities.filter((amenity) => isAmenityInsideBounds(amenity, bounds)).map((amenity) => amenity.id);
+    setSelectedAmenityId(undefined);
+    setSelectedRouteLayer(undefined);
+    setSelectedRouteAmenityIds(amenityIds);
+    setSelectedRoutePopupAmenityId(undefined);
+    setScopedQueryBounds(bounds);
+  }, [amenities, queryBounds, viewportBounds]);
+
+  const toggleSidebarCollapsed = useCallback(() => {
+    setSidebarCollapsed((current) => !current);
+  }, []);
 
   useEffect(() => {
     if (didAutoSearchNearbyTransit.current || !queryBounds) return;
@@ -333,7 +380,10 @@ export default function HomePage() {
           selectedId={selectedId}
           enabledLayers={enabledLayers}
           nearbyTransit={nearbyTransit}
-          onToggleCollapsed={() => setSidebarCollapsed((value) => !value)}
+          nearbyTransitMarkersVisible={nearbyTransitMarkersVisible}
+          onToggleCollapsed={toggleSidebarCollapsed}
+          onShowQueryBoundsAmenities={showQueryBoundsAmenities}
+          onClearCollapsedMapLayers={clearCollapsedMapLayers}
           onSelectCommunity={setSelectedId}
           onAddCommunity={addCommunity}
           onFitAll={() => setFitSignal((value) => value + 1)}
@@ -344,6 +394,7 @@ export default function HomePage() {
           }}
           onToggleAllLayers={toggleAllLayers}
           onSearchNearbyTransit={() => searchNearbyTransit(true)}
+          onToggleNearbyTransitMarkers={toggleNearbyTransitMarkers}
           onFocusAmenity={focusAmenity}
           onFocusRoute={focusRoute}
         />
@@ -361,8 +412,10 @@ export default function HomePage() {
               amenityFocusSignal={amenityFocusSignal}
               routeFocusSignal={routeFocusSignal}
               enabledLayers={enabledLayers}
+              sidebarCollapsed={sidebarCollapsed}
               onSelectCommunity={setSelectedId}
               onQueryBoundsChange={setQueryBounds}
+              onViewportBoundsChange={setViewportBounds}
               fitSignal={fitSignal}
             />
           ) : (

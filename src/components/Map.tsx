@@ -20,8 +20,10 @@ type CommunityMapProps = {
   amenityFocusSignal: number;
   routeFocusSignal: number;
   enabledLayers: Record<LayerKey, boolean>;
+  sidebarCollapsed: boolean;
   onSelectCommunity: (id: string) => void;
   onQueryBoundsChange: (bounds: MapQueryBounds) => void;
+  onViewportBoundsChange: (bounds: MapQueryBounds) => void;
   fitSignal: number;
 };
 
@@ -55,8 +57,10 @@ export function CommunityMap({
   amenityFocusSignal,
   routeFocusSignal,
   enabledLayers,
+  sidebarCollapsed,
   onSelectCommunity,
   onQueryBoundsChange,
+  onViewportBoundsChange,
   fitSignal
 }: CommunityMapProps) {
   return (
@@ -73,7 +77,11 @@ export function CommunityMap({
       <MapControls fitSignal={fitSignal} />
       <InvalidateSizeOnResize />
       <ClosePopupsOnManualMove />
-      <QueryBoundsReporter onQueryBoundsChange={onQueryBoundsChange} />
+      <QueryBoundsReporter
+        sidebarCollapsed={sidebarCollapsed}
+        onQueryBoundsChange={onQueryBoundsChange}
+        onViewportBoundsChange={onViewportBoundsChange}
+      />
       <QueryBoundsMask bounds={scopedQueryBounds} />
       <CommunityClusterLayer communities={communities} selectedId={selectedId} onSelectCommunity={onSelectCommunity} />
       <AmenityLayers
@@ -216,7 +224,10 @@ function InvalidateSizeOnResize() {
     const container = map.getContainer();
     const invalidate = () => {
       window.requestAnimationFrame(() => {
+        const center = map.getCenter();
+        const zoom = map.getZoom();
         map.invalidateSize({ pan: false });
+        map.setView(center, zoom, { animate: false });
       });
     };
     const resizeObserver = typeof ResizeObserver !== "undefined" ? new ResizeObserver(invalidate) : null;
@@ -266,15 +277,37 @@ function MapControls({ fitSignal }: { fitSignal: number }) {
   return null;
 }
 
-function QueryBoundsReporter({ onQueryBoundsChange }: { onQueryBoundsChange: (bounds: MapQueryBounds) => void }) {
+function QueryBoundsReporter({
+  sidebarCollapsed,
+  onQueryBoundsChange,
+  onViewportBoundsChange
+}: {
+  sidebarCollapsed: boolean;
+  onQueryBoundsChange: (bounds: MapQueryBounds) => void;
+  onViewportBoundsChange: (bounds: MapQueryBounds) => void;
+}) {
   const map = useMap();
 
   useEffect(() => {
     const reportBounds = () => {
       const size = map.getSize();
+      const fullBounds = map.getBounds();
       const margin = Math.max(0, Math.min(window.innerHeight * 0.1, size.x / 2 - 1, size.y / 2 - 1));
-      const northwest = map.containerPointToLatLng([margin, margin]);
-      const southeast = map.containerPointToLatLng([size.x - margin, size.y - margin]);
+      const visibleLeft = sidebarCollapsed ? 0 : size.x / 3;
+      const visibleWidth = size.x - visibleLeft;
+      const horizontalMargin = Math.max(0, Math.min(margin, visibleWidth / 2 - 1));
+      const westX = Math.min(size.x - 1, visibleLeft + horizontalMargin);
+      const eastX = Math.max(westX + 1, size.x - horizontalMargin);
+
+      const northwest = map.containerPointToLatLng([westX, margin]);
+      const southeast = map.containerPointToLatLng([eastX, size.y - margin]);
+
+      onViewportBoundsChange({
+        north: fullBounds.getNorth(),
+        south: fullBounds.getSouth(),
+        west: fullBounds.getWest(),
+        east: fullBounds.getEast()
+      });
 
       onQueryBoundsChange({
         north: northwest.lat,
@@ -285,13 +318,11 @@ function QueryBoundsReporter({ onQueryBoundsChange }: { onQueryBoundsChange: (bo
     };
 
     reportBounds();
-    map.on("moveend zoomend resize", reportBounds);
-    window.addEventListener("resize", reportBounds);
+    map.on("moveend zoomend", reportBounds);
     return () => {
-      map.off("moveend zoomend resize", reportBounds);
-      window.removeEventListener("resize", reportBounds);
+      map.off("moveend zoomend", reportBounds);
     };
-  }, [map, onQueryBoundsChange]);
+  }, [map, onQueryBoundsChange, onViewportBoundsChange, sidebarCollapsed]);
 
   return null;
 }

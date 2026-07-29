@@ -1,4 +1,3 @@
-import { LocateFixed } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 type SearchBoxProps = {
@@ -7,9 +6,16 @@ type SearchBoxProps = {
 
 export function SearchBox({ onSearchNearbyTransit }: SearchBoxProps) {
   return (
-    <Button type="button" variant="secondary" className="w-full justify-center" onClick={onSearchNearbyTransit}>
-      <LocateFixed className="h-4 w-4" />
-      查詢地圖中心附近交通
-    </Button>
+    <div className="flex justify-end">
+      <Button
+        type="button"
+        size="sm"
+        variant="ghost"
+        className="h-6 px-1.5 text-[10px] font-semibold text-primary hover:bg-transparent hover:text-primary"
+        onClick={onSearchNearbyTransit}
+      >
+        選取範圍
+      </Button>
+    </div>
   );
 }

@@ -100,23 +100,36 @@ body {
   background: #ef4444;
 }
 
+.sidebar-panel,
 .property-scrollbox,
 .traffic-scrollbox {
   scrollbar-color: #0f766e #e7e5df;
   scrollbar-width: thin;
 }
 
+.sidebar-panel button {
+  font-size: 10px;
+  line-height: 1.2;
+}
+
+.sidebar-panel button svg {
+  flex: 0 0 auto;
+}
+
+.sidebar-panel::-webkit-scrollbar,
 .property-scrollbox::-webkit-scrollbar,
 .traffic-scrollbox::-webkit-scrollbar {
   width: 10px;
 }
 
+.sidebar-panel::-webkit-scrollbar-track,
 .property-scrollbox::-webkit-scrollbar-track,
 .traffic-scrollbox::-webkit-scrollbar-track {
   border-radius: 999px;
   background: #e7e5df;
 }
 
+.sidebar-panel::-webkit-scrollbar-thumb,
 .property-scrollbox::-webkit-scrollbar-thumb,
 .traffic-scrollbox::-webkit-scrollbar-thumb {
   border: 2px solid #e7e5df;

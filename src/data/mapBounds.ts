@@ -1,6 +1,6 @@
 export const mapBounds = {
-  west: 121.2833333333,
-  east: 121.3305555556,
+  west: 121.26,
+  east: 121.34,
   south: 24.95,
   north: 25.0472222222
 };
